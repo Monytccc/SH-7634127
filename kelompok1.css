@@ -36,9 +36,9 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .kelompok1-hoverable tbody tr:hover,.kelompok1-ul.kelompok1-hoverable li:hover{background-color:#ccc}.kelompok1-centered tr th,.kelompok1-centered tr td{text-align:center}
 .kelompok1-table td,.kelompok1-table th,.kelompok1-table-all td,.kelompok1-table-all th{padding:8px 8px;display:table-cell;text-align:left;vertical-align:top}
 .kelompok1-table th:first-child,.kelompok1-table td:first-child,.kelompok1-table-all th:first-child,.kelompok1-table-all td:first-child{padding-left:16px}
-.kelompok1-btn,.kelompok1-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+.kelompok1-btn,.kelompok1-button{border:none;display:inline-block;padding:5px 10px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
 .kelompok1-btn:hover{box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)}
-.kelompok1-btn,.kelompok1-button{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}   
+.kelompok1-btn,.kelompok1-button{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border-radius: 5px}   
 .kelompok1-disabled,.kelompok1-btn:disabled,.kelompok1-button:disabled{cursor:not-allowed;opacity:0.3}.kelompok1-disabled *,:disabled *{pointer-events:none}
 .kelompok1-btn.kelompok1-disabled:hover,.kelompok1-btn:disabled:hover{box-shadow:none}
 .kelompok1-badge,.kelompok1-tag{background-color:#000;color:#fff;display:inline-block;padding-left:8px;padding-right:8px;text-align:center;border-radius: 5px}.kelompok1-badge{border-radius:50%}
@@ -173,7 +173,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .kelompok1-white,.kelompok1-hover-white:hover{color:#000!important;background-color:#fff!important}
 .kelompok1-black,.kelompok1-hover-black:hover{color:#fff!important;background-color:#000!important}
 .kelompok1-grey,.kelompok1-hover-grey:hover,.kelompok1-gray,.kelompok1-hover-gray:hover{color:#000!important;background-color:#9e9e9e!important}
-.kelompok1-light-grey,.kelompok1-hover-light-grey:hover,.kelompok1-light-gray,.kelompok1-hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
+.kelompok1-light-grey,.kelompok1-hover-light-grey:hover,.kelompok1-light-gray,.kelompok1-hover-light-gray:hover{color:#fff!important;background-color:#000!important}
 .kelompok1-dark-grey,.kelompok1-hover-dark-grey:hover,.kelompok1-dark-gray,.kelompok1-hover-dark-gray:hover{color:#fff!important;background-color:#616161!important}
 .kelompok1-pale-red,.kelompok1-hover-pale-red:hover{color:#000!important;background-color:#ffdddd!important}
 .kelompok1-pale-green,.kelompok1-hover-pale-green:hover{color:#000!important;background-color:#ddffdd!important}
