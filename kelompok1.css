@@ -139,7 +139,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .kelompok1-margin{margin:16px!important}.kelompok1-margin-top{margin-top:16px!important}.kelompok1-margin-bottom{margin-bottom:16px!important}
 .kelompok1-margin-left{margin-left:16px!important}.kelompok1-margin-right{margin-right:16px!important}
 .kelompok1-padding-small{padding:4px 8px!important}.kelompok1-padding{padding:8px 16px!important;border-radius: 0px 0px 20px 20px;}.kelompok1-padding-large{padding:12px 24px!important}
-.kelompok1-padding-16{padding-top:16px!important;padding-bottom:16px!important}.kelompok1-padding-24{padding-top:24px!important;padding-bottom:24px!important}
+.kelompok1-padding-16{padding-top:16px!important;padding-bottom:16px!important;border-radius: 5px}.kelompok1-padding-24{padding-top:24px!important;padding-bottom:24px!important}
 .kelompok1-padding-32{padding-top:32px!important;padding-bottom:32px!important}.kelompok1-padding-48{padding-top:48px!important;padding-bottom:48px!important}
 .kelompok1-padding-64{padding-top:64px!important;padding-bottom:64px!important}
 .kelompok1-padding-top-64{padding-top:64px!important}.kelompok1-padding-top-48{padding-top:48px!important}
@@ -167,7 +167,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .kelompok1-purple,.kelompok1-hover-purple:hover{color:#fff!important;background-color:#9c27b0!important}
 .kelompok1-deep-purple,.kelompok1-hover-deep-purple:hover{color:#fff!important;background-color:#673ab7!important}
 .kelompok1-red,.kelompok1-hover-red:hover{color:#fff!important;background-color:#f44336!important}
-.kelompok1-sand,.kelompok1-hover-sand:hover{color:#000!important;background-color:#fdf5e6!important}
+.kelompok1-sand,.kelompok1-hover-sand:hover{color:#000!important;background-color:#0011!important}
 .kelompok1-teal,.kelompok1-hover-teal:hover{color:#fff!important;background-color:#009688!important}
 .kelompok1-yellow,.kelompok1-hover-yellow:hover{color:#000!important;background-color:#ffeb3b!important}
 .kelompok1-white,.kelompok1-hover-white:hover{color:#000!important;background-color:#fff!important}
